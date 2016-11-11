@@ -30,3 +30,5 @@ I have also found that looking into probabilistic programming is helpful too. Th
 * The Design and Implementation of Probabilistic Programming Languages (http://dippl.org)
 * Practical Probabilistic Programming (https://smile.amazon.com/Practical-Probabilistic-Programming...)
 The currently most popular ML frameworks are scikit-learn, Tensorflow, Theano and Keras.
+
+taken from [here](https://news.ycombinator.com/item?id=12900448)
